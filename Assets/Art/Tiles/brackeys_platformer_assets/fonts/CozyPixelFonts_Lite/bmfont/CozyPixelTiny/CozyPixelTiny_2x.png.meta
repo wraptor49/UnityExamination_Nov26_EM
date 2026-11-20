@@ -1,0 +1,5291 @@
+fileFormatVersion: 2
+guid: 28e534e74d5b7914e9866cd0a6a9bf8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7725354968653501791
+    second: CozyPixelTiny_2x_0
+  - first:
+      213: -1827580740851461362
+    second: CozyPixelTiny_2x_1
+  - first:
+      213: -2961375016467620688
+    second: CozyPixelTiny_2x_2
+  - first:
+      213: -5261259828732221206
+    second: CozyPixelTiny_2x_3
+  - first:
+      213: -5803350850892923332
+    second: CozyPixelTiny_2x_4
+  - first:
+      213: -7211609807933202314
+    second: CozyPixelTiny_2x_5
+  - first:
+      213: 8426846183890504408
+    second: CozyPixelTiny_2x_6
+  - first:
+      213: 2161496178696348204
+    second: CozyPixelTiny_2x_7
+  - first:
+      213: -6620726157607684272
+    second: CozyPixelTiny_2x_8
+  - first:
+      213: -4169736087555730594
+    second: CozyPixelTiny_2x_9
+  - first:
+      213: -7614152377199482740
+    second: CozyPixelTiny_2x_10
+  - first:
+      213: 1200745948481921562
+    second: CozyPixelTiny_2x_11
+  - first:
+      213: -3708959659880441783
+    second: CozyPixelTiny_2x_12
+  - first:
+      213: 7998219091773525962
+    second: CozyPixelTiny_2x_13
+  - first:
+      213: -3004201224199166188
+    second: CozyPixelTiny_2x_14
+  - first:
+      213: 6821492633295202927
+    second: CozyPixelTiny_2x_15
+  - first:
+      213: -6341779078521676476
+    second: CozyPixelTiny_2x_16
+  - first:
+      213: -7014776599946076036
+    second: CozyPixelTiny_2x_17
+  - first:
+      213: -3488026577028706140
+    second: CozyPixelTiny_2x_18
+  - first:
+      213: 6001814749887190941
+    second: CozyPixelTiny_2x_19
+  - first:
+      213: -1326600432958983413
+    second: CozyPixelTiny_2x_20
+  - first:
+      213: 2520176231951627329
+    second: CozyPixelTiny_2x_21
+  - first:
+      213: 1705138228776343369
+    second: CozyPixelTiny_2x_22
+  - first:
+      213: 7415709772036872834
+    second: CozyPixelTiny_2x_23
+  - first:
+      213: 6680345621775443547
+    second: CozyPixelTiny_2x_24
+  - first:
+      213: -6135860246430771970
+    second: CozyPixelTiny_2x_25
+  - first:
+      213: -7864345392654622939
+    second: CozyPixelTiny_2x_26
+  - first:
+      213: -4789990024383489245
+    second: CozyPixelTiny_2x_27
+  - first:
+      213: -485221027307495291
+    second: CozyPixelTiny_2x_28
+  - first:
+      213: -7669582253648364054
+    second: CozyPixelTiny_2x_29
+  - first:
+      213: -4162996445906128004
+    second: CozyPixelTiny_2x_30
+  - first:
+      213: -478857671711510748
+    second: CozyPixelTiny_2x_31
+  - first:
+      213: 6333399894089404397
+    second: CozyPixelTiny_2x_32
+  - first:
+      213: -7939779067861012434
+    second: CozyPixelTiny_2x_33
+  - first:
+      213: -5006555379184489969
+    second: CozyPixelTiny_2x_34
+  - first:
+      213: 4399309429028770349
+    second: CozyPixelTiny_2x_35
+  - first:
+      213: -7278484526127651735
+    second: CozyPixelTiny_2x_36
+  - first:
+      213: 3054096886733627105
+    second: CozyPixelTiny_2x_37
+  - first:
+      213: -2900773439421405906
+    second: CozyPixelTiny_2x_38
+  - first:
+      213: -7929414127215197144
+    second: CozyPixelTiny_2x_39
+  - first:
+      213: 1533774904726265686
+    second: CozyPixelTiny_2x_40
+  - first:
+      213: 1187043312817045961
+    second: CozyPixelTiny_2x_41
+  - first:
+      213: 7346739844486232179
+    second: CozyPixelTiny_2x_42
+  - first:
+      213: -352706581813964390
+    second: CozyPixelTiny_2x_43
+  - first:
+      213: -3420910525922670628
+    second: CozyPixelTiny_2x_44
+  - first:
+      213: 843770214678426582
+    second: CozyPixelTiny_2x_45
+  - first:
+      213: -2084562589692893575
+    second: CozyPixelTiny_2x_46
+  - first:
+      213: 1030549566461749003
+    second: CozyPixelTiny_2x_47
+  - first:
+      213: -6245760145302768198
+    second: CozyPixelTiny_2x_48
+  - first:
+      213: 2630953921026241326
+    second: CozyPixelTiny_2x_49
+  - first:
+      213: 2114360391148748596
+    second: CozyPixelTiny_2x_50
+  - first:
+      213: 8411964044423470765
+    second: CozyPixelTiny_2x_51
+  - first:
+      213: 728969484778447913
+    second: CozyPixelTiny_2x_52
+  - first:
+      213: 6838723452670373958
+    second: CozyPixelTiny_2x_53
+  - first:
+      213: 8428919455770505007
+    second: CozyPixelTiny_2x_54
+  - first:
+      213: 645611852160347451
+    second: CozyPixelTiny_2x_55
+  - first:
+      213: 8987469815176833072
+    second: CozyPixelTiny_2x_56
+  - first:
+      213: 7912010305088410096
+    second: CozyPixelTiny_2x_57
+  - first:
+      213: 6455381265952186156
+    second: CozyPixelTiny_2x_58
+  - first:
+      213: 4744111394428297117
+    second: CozyPixelTiny_2x_59
+  - first:
+      213: 2475107347400579361
+    second: CozyPixelTiny_2x_60
+  - first:
+      213: -4458353846881499490
+    second: CozyPixelTiny_2x_61
+  - first:
+      213: -6134947523131742134
+    second: CozyPixelTiny_2x_62
+  - first:
+      213: 6931547886221829666
+    second: CozyPixelTiny_2x_63
+  - first:
+      213: -7252807287266497423
+    second: CozyPixelTiny_2x_64
+  - first:
+      213: 1506152708441683191
+    second: CozyPixelTiny_2x_65
+  - first:
+      213: 9086526604885868343
+    second: CozyPixelTiny_2x_66
+  - first:
+      213: -372926295678310284
+    second: CozyPixelTiny_2x_67
+  - first:
+      213: -8853636088930872166
+    second: CozyPixelTiny_2x_68
+  - first:
+      213: 5823514631812805390
+    second: CozyPixelTiny_2x_69
+  - first:
+      213: -4366028705655508159
+    second: CozyPixelTiny_2x_70
+  - first:
+      213: -2070568433405022384
+    second: CozyPixelTiny_2x_71
+  - first:
+      213: 8978726745379267114
+    second: CozyPixelTiny_2x_72
+  - first:
+      213: -5943532543312875047
+    second: CozyPixelTiny_2x_73
+  - first:
+      213: -8589942736674474477
+    second: CozyPixelTiny_2x_74
+  - first:
+      213: 4786870879778953715
+    second: CozyPixelTiny_2x_75
+  - first:
+      213: -611504729569999842
+    second: CozyPixelTiny_2x_76
+  - first:
+      213: -6022905742201073623
+    second: CozyPixelTiny_2x_77
+  - first:
+      213: -7694765308467257304
+    second: CozyPixelTiny_2x_78
+  - first:
+      213: -5257297872943898525
+    second: CozyPixelTiny_2x_79
+  - first:
+      213: 5589986135656907888
+    second: CozyPixelTiny_2x_80
+  - first:
+      213: -3307455504053771005
+    second: CozyPixelTiny_2x_81
+  - first:
+      213: 6145800924489806557
+    second: CozyPixelTiny_2x_82
+  - first:
+      213: -7878296844462089784
+    second: CozyPixelTiny_2x_83
+  - first:
+      213: -1879577580023231544
+    second: CozyPixelTiny_2x_84
+  - first:
+      213: 135178734445596818
+    second: CozyPixelTiny_2x_85
+  - first:
+      213: 9148548654649156820
+    second: CozyPixelTiny_2x_86
+  - first:
+      213: 4169846547271456061
+    second: CozyPixelTiny_2x_87
+  - first:
+      213: -1002379253943555454
+    second: CozyPixelTiny_2x_88
+  - first:
+      213: -749515304417091291
+    second: CozyPixelTiny_2x_89
+  - first:
+      213: 2658152593146141513
+    second: CozyPixelTiny_2x_90
+  - first:
+      213: 7909375280001968563
+    second: CozyPixelTiny_2x_91
+  - first:
+      213: -3850212265549238827
+    second: CozyPixelTiny_2x_92
+  - first:
+      213: 6110326530803079880
+    second: CozyPixelTiny_2x_93
+  - first:
+      213: 1131191177173410828
+    second: CozyPixelTiny_2x_94
+  - first:
+      213: -7743219356671410785
+    second: CozyPixelTiny_2x_95
+  - first:
+      213: -7593461709009538486
+    second: CozyPixelTiny_2x_96
+  - first:
+      213: 151628152882661481
+    second: CozyPixelTiny_2x_97
+  - first:
+      213: 8462113139154053612
+    second: CozyPixelTiny_2x_98
+  - first:
+      213: -6139112351107731173
+    second: CozyPixelTiny_2x_99
+  - first:
+      213: -5909490456374652144
+    second: CozyPixelTiny_2x_100
+  - first:
+      213: 8656415831811331584
+    second: CozyPixelTiny_2x_101
+  - first:
+      213: 3533497930116553202
+    second: CozyPixelTiny_2x_102
+  - first:
+      213: -7884113828211288038
+    second: CozyPixelTiny_2x_103
+  - first:
+      213: 1750362635296299219
+    second: CozyPixelTiny_2x_104
+  - first:
+      213: -9110743561560054778
+    second: CozyPixelTiny_2x_105
+  - first:
+      213: -3545608086174386665
+    second: CozyPixelTiny_2x_106
+  - first:
+      213: 892306504112004008
+    second: CozyPixelTiny_2x_107
+  - first:
+      213: 8786152212724093506
+    second: CozyPixelTiny_2x_108
+  - first:
+      213: 7426064678976232083
+    second: CozyPixelTiny_2x_109
+  - first:
+      213: 9029419735157321854
+    second: CozyPixelTiny_2x_110
+  - first:
+      213: -5898052678316095142
+    second: CozyPixelTiny_2x_111
+  - first:
+      213: 522112659157387099
+    second: CozyPixelTiny_2x_112
+  - first:
+      213: -8723393892653666256
+    second: CozyPixelTiny_2x_113
+  - first:
+      213: 3862429889055050335
+    second: CozyPixelTiny_2x_114
+  - first:
+      213: -7043166153993420675
+    second: CozyPixelTiny_2x_115
+  - first:
+      213: 2849905788064095001
+    second: CozyPixelTiny_2x_116
+  - first:
+      213: 7355354427439906141
+    second: CozyPixelTiny_2x_117
+  - first:
+      213: -3485577023030876141
+    second: CozyPixelTiny_2x_118
+  - first:
+      213: 7492942344476917175
+    second: CozyPixelTiny_2x_119
+  - first:
+      213: 3920725796623474726
+    second: CozyPixelTiny_2x_120
+  - first:
+      213: 5799060361977404291
+    second: CozyPixelTiny_2x_121
+  - first:
+      213: 4667614841561266392
+    second: CozyPixelTiny_2x_122
+  - first:
+      213: -356500846603475558
+    second: CozyPixelTiny_2x_123
+  - first:
+      213: -2455857096685763156
+    second: CozyPixelTiny_2x_124
+  - first:
+      213: -4548111555013784003
+    second: CozyPixelTiny_2x_125
+  - first:
+      213: 3405546871542896209
+    second: CozyPixelTiny_2x_126
+  - first:
+      213: -1315629686444022654
+    second: CozyPixelTiny_2x_127
+  - first:
+      213: 3088877550723932450
+    second: CozyPixelTiny_2x_128
+  - first:
+      213: -2090399728448457804
+    second: CozyPixelTiny_2x_129
+  - first:
+      213: 6191297585443469001
+    second: CozyPixelTiny_2x_130
+  - first:
+      213: 7029014051060043919
+    second: CozyPixelTiny_2x_131
+  - first:
+      213: -2978430934949280988
+    second: CozyPixelTiny_2x_132
+  - first:
+      213: 8635263079814171172
+    second: CozyPixelTiny_2x_133
+  - first:
+      213: -6003182303503933340
+    second: CozyPixelTiny_2x_134
+  - first:
+      213: 8086179029586038728
+    second: CozyPixelTiny_2x_135
+  - first:
+      213: 5856232586829877550
+    second: CozyPixelTiny_2x_136
+  - first:
+      213: -5785331006758678302
+    second: CozyPixelTiny_2x_137
+  - first:
+      213: -2559812998113502115
+    second: CozyPixelTiny_2x_138
+  - first:
+      213: 4920036269058360904
+    second: CozyPixelTiny_2x_139
+  - first:
+      213: 512520828027021700
+    second: CozyPixelTiny_2x_140
+  - first:
+      213: 3006184117872893435
+    second: CozyPixelTiny_2x_141
+  - first:
+      213: -705932079676340784
+    second: CozyPixelTiny_2x_142
+  - first:
+      213: 3496827800986586404
+    second: CozyPixelTiny_2x_143
+  - first:
+      213: -9134867642912643658
+    second: CozyPixelTiny_2x_144
+  - first:
+      213: 3465570731297911169
+    second: CozyPixelTiny_2x_145
+  - first:
+      213: -5193422904232013974
+    second: CozyPixelTiny_2x_146
+  - first:
+      213: 217805081420333613
+    second: CozyPixelTiny_2x_147
+  - first:
+      213: -3387158556012596385
+    second: CozyPixelTiny_2x_148
+  - first:
+      213: 1423934491211248700
+    second: CozyPixelTiny_2x_149
+  - first:
+      213: 5169018686234361777
+    second: CozyPixelTiny_2x_150
+  - first:
+      213: 1173382912416490441
+    second: CozyPixelTiny_2x_151
+  - first:
+      213: 5147757853358189981
+    second: CozyPixelTiny_2x_152
+  - first:
+      213: 8800699394800136693
+    second: CozyPixelTiny_2x_153
+  - first:
+      213: 2083281876115004724
+    second: CozyPixelTiny_2x_154
+  - first:
+      213: -5669893237360904425
+    second: CozyPixelTiny_2x_155
+  - first:
+      213: 6922147150755644427
+    second: CozyPixelTiny_2x_156
+  - first:
+      213: -5923472662831912009
+    second: CozyPixelTiny_2x_157
+  - first:
+      213: 334378866373783757
+    second: CozyPixelTiny_2x_158
+  - first:
+      213: -1908892899227662839
+    second: CozyPixelTiny_2x_159
+  - first:
+      213: 8083194572455528737
+    second: CozyPixelTiny_2x_160
+  - first:
+      213: 2086334573014742199
+    second: CozyPixelTiny_2x_161
+  - first:
+      213: 3045637497138618254
+    second: CozyPixelTiny_2x_162
+  - first:
+      213: -8720263160665113632
+    second: CozyPixelTiny_2x_163
+  - first:
+      213: 2661204021906999922
+    second: CozyPixelTiny_2x_164
+  - first:
+      213: 3542494779071003815
+    second: CozyPixelTiny_2x_165
+  - first:
+      213: 3838778059450318939
+    second: CozyPixelTiny_2x_166
+  - first:
+      213: 2731098654491509125
+    second: CozyPixelTiny_2x_167
+  - first:
+      213: -8187402453153920520
+    second: CozyPixelTiny_2x_168
+  - first:
+      213: 6996055712753021549
+    second: CozyPixelTiny_2x_169
+  - first:
+      213: -8981713371432727298
+    second: CozyPixelTiny_2x_170
+  - first:
+      213: 8466384759895980696
+    second: CozyPixelTiny_2x_171
+  - first:
+      213: -1804028783519502132
+    second: CozyPixelTiny_2x_172
+  - first:
+      213: -5895613188470787004
+    second: CozyPixelTiny_2x_173
+  - first:
+      213: 6596624795881092886
+    second: CozyPixelTiny_2x_174
+  - first:
+      213: 385088966077201881
+    second: CozyPixelTiny_2x_175
+  - first:
+      213: 5748836020125038466
+    second: CozyPixelTiny_2x_176
+  - first:
+      213: -1947803985023032478
+    second: CozyPixelTiny_2x_177
+  - first:
+      213: 7603067961696013762
+    second: CozyPixelTiny_2x_178
+  - first:
+      213: -6292468697197460774
+    second: CozyPixelTiny_2x_179
+  - first:
+      213: -4126550324680410454
+    second: CozyPixelTiny_2x_180
+  - first:
+      213: 6930019826313302305
+    second: CozyPixelTiny_2x_181
+  - first:
+      213: 4160094502712213622
+    second: CozyPixelTiny_2x_182
+  - first:
+      213: 8972531940928909218
+    second: CozyPixelTiny_2x_183
+  - first:
+      213: -2470708901392293341
+    second: CozyPixelTiny_2x_184
+  - first:
+      213: 160135810344883320
+    second: CozyPixelTiny_2x_185
+  - first:
+      213: 2640529932434137059
+    second: CozyPixelTiny_2x_186
+  - first:
+      213: 6430043426549503290
+    second: CozyPixelTiny_2x_187
+  - first:
+      213: 8003043244564669703
+    second: CozyPixelTiny_2x_188
+  - first:
+      213: 2843959086249937303
+    second: CozyPixelTiny_2x_189
+  - first:
+      213: 6594519690970613792
+    second: CozyPixelTiny_2x_190
+  - first:
+      213: 8563953088287451825
+    second: CozyPixelTiny_2x_191
+  - first:
+      213: -7267481680652463010
+    second: CozyPixelTiny_2x_192
+  - first:
+      213: -5362843663777584805
+    second: CozyPixelTiny_2x_193
+  - first:
+      213: 529299654637905583
+    second: CozyPixelTiny_2x_194
+  - first:
+      213: 8688915135723576686
+    second: CozyPixelTiny_2x_195
+  - first:
+      213: -1454695975419545806
+    second: CozyPixelTiny_2x_196
+  - first:
+      213: 43721816913429863
+    second: CozyPixelTiny_2x_197
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55146ec969f53b60800000000000000
+      internalID: 7725354968653501791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e031437cff023a6e0800000000000000
+      internalID: -1827580740851461362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc1bb0dc1517e6d0800000000000000
+      internalID: -2961375016467620688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae82265af004cf6b0800000000000000
+      internalID: -5261259828732221206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef099062b567fa0800000000000000
+      internalID: -5803350850892923332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6702b63a6173beb90800000000000000
+      internalID: -7211609807933202314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da46a7f4fb22f470800000000000000
+      internalID: 8426846183890504408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c226f8a825d2ffd10800000000000000
+      internalID: 2161496178696348204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 51
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05738a443a47e14a0800000000000000
+      internalID: -6620726157607684272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e531d1ede1f1226c0800000000000000
+      internalID: -4169736087555730594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88245321c8155690800000000000000
+      internalID: -7614152377199482740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1221cc0418e9a010800000000000000
+      internalID: 1200745948481921562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948929a17d0278cc0800000000000000
+      internalID: -3708959659880441783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf88e833e16ffe60800000000000000
+      internalID: 7998219091773525962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417a0dd47eeee46d0800000000000000
+      internalID: -3004201224199166188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a218d786fcaae50800000000000000
+      internalID: 6821492633295202927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d16bc37897df7a0800000000000000
+      internalID: -6341779078521676476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ed7529d186ae90800000000000000
+      internalID: -7014776599946076036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 51
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0151dfe4a089fc0800000000000000
+      internalID: -3488026577028706140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 51
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d9be47baba4350800000000000000
+      internalID: 6001814749887190941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03b9925fe7f69de0800000000000000
+      internalID: -1326600432958983413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144fbd43ee679f220800000000000000
+      internalID: 2520176231951627329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94717235f2ed9a710800000000000000
+      internalID: 1705138228776343369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a96af5fb4e9e660800000000000000
+      internalID: 7415709772036872834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e2c2f2fa55bc50800000000000000
+      internalID: 6680345621775443547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef49d047d9b09daa0800000000000000
+      internalID: -6135860246430771970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f57df488b3cd290800000000000000
+      internalID: -7864345392654622939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b15f68379868db0800000000000000
+      internalID: -4789990024383489245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58069c5eb062449f0800000000000000
+      internalID: -485221027307495291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed36a3539b209590800000000000000
+      internalID: -7669582253648364054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c733d88f9c01a36c0800000000000000
+      internalID: -4162996445906128004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f2aa31c71ca59f0800000000000000
+      internalID: -478857671711510748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def02bbd5a1c4e750800000000000000
+      internalID: 6333399894089404397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_33
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20ff09210d30d190800000000000000
+      internalID: -7939779067861012434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a23639864258ab0800000000000000
+      internalID: -5006555379184489969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 51
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22594efd9c7d0d30800000000000000
+      internalID: 4399309429028770349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 51
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ebf4f2e0adfa90800000000000000
+      internalID: -7278484526127651735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee526befe4526a20800000000000000
+      internalID: 3054096886733627105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2526610de16eb7d0800000000000000
+      internalID: -2900773439421405906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824cf56fcdf05f190800000000000000
+      internalID: -7929414127215197144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_40
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f1e994620194510800000000000000
+      internalID: 1533774904726265686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_41
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c186719a99397010800000000000000
+      internalID: 1187043312817045961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3787fcfb6fcd4f560800000000000000
+      internalID: 7346739844486232179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9159098b3fea1bf0800000000000000
+      internalID: -352706581813964390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd70cfd500c7680d0800000000000000
+      internalID: -3420910525922670628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_45
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 51
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d376fd2a8ca5bb00800000000000000
+      internalID: 843770214678426582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_46
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97669418e552213e0800000000000000
+      internalID: -2084562589692893575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a260ee5f3d4e00800000000000000
+      internalID: 1030549566461749003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_48
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5bfe24d3a9259a0800000000000000
+      internalID: -6245760145302768198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 51
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23b03bd6a6038420800000000000000
+      internalID: 2630953921026241326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_50
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb399c297b75d10800000000000000
+      internalID: 2114360391148748596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_51
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 51
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae183bdabc4db470800000000000000
+      internalID: 8411964044423470765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 57
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a15852e1dd1a00800000000000000
+      internalID: 728969484778447913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_53
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640fc814fb608ee50800000000000000
+      internalID: 6838723452670373958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_54
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f6491369989f470800000000000000
+      internalID: 8428919455770505007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_55
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dacc61f8ca5f800800000000000000
+      internalID: 645611852160347451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0382923ed28e9bc70800000000000000
+      internalID: 8987469815176833072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1560ee37b1dcd60800000000000000
+      internalID: 7912010305088410096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f9ace2f0f169950800000000000000
+      internalID: 6455381265952186156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f18c78d2876d140800000000000000
+      internalID: 4744111394428297117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12955cec409595220800000000000000
+      internalID: 2475107347400579361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c1a13cceb022c0800000000000000
+      internalID: -4458353846881499490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 37
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48e1186bb94cdaa0800000000000000
+      internalID: -6134947523131742134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226acddd31ec13060800000000000000
+      internalID: 6931547886221829666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cad12033ad85b90800000000000000
+      internalID: -7252807287266497423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 41
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4b82c88ede6e410800000000000000
+      internalID: 1506152708441683191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fbb5efdc3d91e70800000000000000
+      internalID: 9086526604885868343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47821ba828913daf0800000000000000
+      internalID: -372926295678310284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9452bcb2e0912580800000000000000
+      internalID: -8853636088930872166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_69
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03fd7d04b741d050800000000000000
+      internalID: 5823514631812805390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_70
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143be304600c863c0800000000000000
+      internalID: -4366028705655508159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa1cbeafcd343e0800000000000000
+      internalID: -2070568433405022384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_72
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2261a15768da9c70800000000000000
+      internalID: 8978726745379267114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1bcdc54a4548da0800000000000000
+      internalID: -5943532543312875047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_74
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316329ba7946ac880800000000000000
+      internalID: -8589942736674474477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9d2e604b16e6240800000000000000
+      internalID: 4786870879778953715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_76
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14428730bf7387f0800000000000000
+      internalID: -611504729569999842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d17063275a6ca0800000000000000
+      internalID: -6022905742201073623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8206fc678b3b63590800000000000000
+      internalID: -7694765308467257304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_79
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36023cc50735a07b0800000000000000
+      internalID: -5257297872943898525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_80
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 25
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074403bf5ce939d40800000000000000
+      internalID: 5589986135656907888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e6722ebe8912d0800000000000000
+      internalID: -3307455504053771005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 45
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd27b7401654a4550800000000000000
+      internalID: 6145800924489806557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 37
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c991cec2caaaa290800000000000000
+      internalID: -7878296844462089784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_84
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb4dee36266ae5e0800000000000000
+      internalID: -1879577580023231544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29011dfb75040e100800000000000000
+      internalID: 135178734445596818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_86
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4adb2c78c26fe70800000000000000
+      internalID: 9148548654649156820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_87
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35110a87554ed930800000000000000
+      internalID: 4169846547271456061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_88
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 39
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a297e1165d612f0800000000000000
+      internalID: -1002379253943555454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_89
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521208e3dcf2995f0800000000000000
+      internalID: -749515304417091291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_90
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 43
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b524133b7a3e420800000000000000
+      internalID: 2658152593146141513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_91
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 45
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e5c759eeb3cd60800000000000000
+      internalID: 7909375280001968563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_92
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 39
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde512085c419ac0800000000000000
+      internalID: -3850212265549238827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca992a1b9d3cc450800000000000000
+      internalID: 6110326530803079880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_94
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c042a70e16cc2bf00800000000000000
+      internalID: 1131191177173410828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_95
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dfbab350f8a8490800000000000000
+      internalID: -7743219356671410785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_96
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42b4fabeca9e9690800000000000000
+      internalID: -7593461709009538486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_97
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968058e6001ba1200800000000000000
+      internalID: 151628152882661481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_98
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 39
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9617cd0177f6570800000000000000
+      internalID: 8462113139154053612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_99
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 43
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11b204d7dd7dcaa0800000000000000
+      internalID: -6139112351107731173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0135a306db54dfda0800000000000000
+      internalID: -5909490456374652144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_101
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 43
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069e2bd554c12870800000000000000
+      internalID: 8656415831811331584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_102
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9dc2b65a1890130800000000000000
+      internalID: 3533497930116553202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_103
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1898bcbe30069290800000000000000
+      internalID: -7884113828211288038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_104
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d3f00b898a4810800000000000000
+      internalID: 1750362635296299219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_105
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60429856003209180800000000000000
+      internalID: -9110743561560054778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_106
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 39
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716b2d62b387bcec0800000000000000
+      internalID: -3545608086174386665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_107
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abdd50b90c126c00800000000000000
+      internalID: 892306504112004008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_108
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 37
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2429eede2eeaee970800000000000000
+      internalID: 8786152212724093506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a14750b7eae0760800000000000000
+      internalID: 7426064678976232083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7034f1c861fe4d70800000000000000
+      internalID: 9029419735157321854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_111
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a598d6a9658e52ea0800000000000000
+      internalID: -5898052678316095142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b578fcd72baee3700800000000000000
+      internalID: 522112659157387099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_113
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030f090297740f680800000000000000
+      internalID: -8723393892653666256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_114
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a4af2258b1a9530800000000000000
+      internalID: 3862429889055050335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_115
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d700b2103b5a14e90800000000000000
+      internalID: -7043166153993420675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_116
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bd3ecf636ec8720800000000000000
+      internalID: 2849905788064095001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_117
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5df6a4a1e7731660800000000000000
+      internalID: 7355354427439906141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_118
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 25
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3182bf83a2eb0afc0800000000000000
+      internalID: -3485577023030876141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_119
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd770dec574cf760800000000000000
+      internalID: 7492942344476917175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_120
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e371d657396630800000000000000
+      internalID: 3920725796623474726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b16baaca66a7050800000000000000
+      internalID: 5799060361977404291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_122
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b993e7f2b6c040800000000000000
+      internalID: 4667614841561266392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_123
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e21c6e547d0bf0800000000000000
+      internalID: -356500846603475558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_124
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca54ce47bfa0bedd0800000000000000
+      internalID: -2455857096685763156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ecd8c33acd1e0c0800000000000000
+      internalID: -4548111555013784003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_126
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d14816dee24f20800000000000000
+      internalID: 3405546871542896209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_127
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284ab8b45c1fdbde0800000000000000
+      internalID: -1315629686444022654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_128
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221249d44c5edda20800000000000000
+      internalID: 3088877550723932450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_129
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3b14bb5886df2e0800000000000000
+      internalID: -2090399728448457804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_130
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6771fd958ebe550800000000000000
+      internalID: 6191297585443469001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_131
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80d9a2c9031c8160800000000000000
+      internalID: 7029014051060043919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_132
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423405658dc7aa6d0800000000000000
+      internalID: -2978430934949280988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_133
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a8e5ef40e96d770800000000000000
+      internalID: 8635263079814171172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_134
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460acbd408960bca0800000000000000
+      internalID: -6003182303503933340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_135
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf40b82cf0e73070800000000000000
+      internalID: 8086179029586038728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_136
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21df049284854150800000000000000
+      internalID: 5856232586829877550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_137
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e09812f91066bfa0800000000000000
+      internalID: -5785331006758678302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_138
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c540404a7b97cd0800000000000000
+      internalID: -2559812998113502115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_139
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84603435bea774440800000000000000
+      internalID: 4920036269058360904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4892a864af6dc1700800000000000000
+      internalID: 512520828027021700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_141
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1c3b178c18b920800000000000000
+      internalID: 3006184117872893435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_142
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5c65383860436f0800000000000000
+      internalID: -705932079676340784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_143
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0486ab5a378030800000000000000
+      internalID: 3496827800986586404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_144
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56bf1074e6a3180800000000000000
+      internalID: -9134867642912643658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_145
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181b00ff73e281030800000000000000
+      internalID: 3465570731297911169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_146
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 21
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f8fd072614de7b0800000000000000
+      internalID: -5193422904232013974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_147
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 25
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22855c419cc50300800000000000000
+      internalID: 217805081420333613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_148
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 25
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53b1fe3d356ef0d0800000000000000
+      internalID: -3387158556012596385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_149
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34b21c10e4d2c310800000000000000
+      internalID: 1423934491211248700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_150
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bffa56cb1b0cb740800000000000000
+      internalID: 5169018686234361777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_151
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c32910ca81b84010800000000000000
+      internalID: 1173382912416490441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_152
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d642f5e72807740800000000000000
+      internalID: 5147757853358189981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1be02b87d522a70800000000000000
+      internalID: 8800699394800136693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_154
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d18d024dd49ec10800000000000000
+      internalID: 2083281876115004724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_155
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717b6b8142e7051b0800000000000000
+      internalID: -5669893237360904425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_156
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c5c39828601060800000000000000
+      internalID: 6922147150755644427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_157
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbaa2f3ff89bcda0800000000000000
+      internalID: -5923472662831912009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_158
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 27
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc07b9eaec3f3a400800000000000000
+      internalID: 334378866373783757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_159
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 25
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906054b95004285e0800000000000000
+      internalID: -1908892899227662839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_160
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 23
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c39513a64d2070800000000000000
+      internalID: 8083194572455528737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_161
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 23
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4f8238d3624fc10800000000000000
+      internalID: 2086334573014742199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_162
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 21
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9e8bca27444a20800000000000000
+      internalID: 3045637497138618254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_163
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb71a87bd66bf680800000000000000
+      internalID: -8720263160665113632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_164
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 23
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a8b9055fe7ee420800000000000000
+      internalID: 2661204021906999922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_165
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acf33d8b38792130800000000000000
+      internalID: 3542494779071003815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_166
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50891d6e44164530800000000000000
+      internalID: 3838778059450318939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_167
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581838b91cfc6e520800000000000000
+      internalID: 2731098654491509125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_168
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9499af8d0806e80800000000000000
+      internalID: -8187402453153920520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_169
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d627c73aa9bf61160800000000000000
+      internalID: 6996055712753021549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_170
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc406d964b8a5380800000000000000
+      internalID: -8981713371432727298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_171
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a71611514ae7570800000000000000
+      internalID: 8466384759895980696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_172
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc07db9216dc6f6e0800000000000000
+      internalID: -1804028783519502132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_173
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44437189a039e2ea0800000000000000
+      internalID: -5895613188470787004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_174
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617b60b2d4beb8b50800000000000000
+      internalID: 6596624795881092886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_175
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd34f5df5c185500800000000000000
+      internalID: 385088966077201881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_176
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 25
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287f583d6e7f7cf40800000000000000
+      internalID: 5748836020125038466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_177
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263ac94789208f4e0800000000000000
+      internalID: -1947803985023032478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_178
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 23
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4b044706838960800000000000000
+      internalID: 7603067961696013762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_179
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2c74f0f09aca8a0800000000000000
+      internalID: -6292468697197460774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_180
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab6a5d75c8bb6c0800000000000000
+      internalID: -4126550324680410454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_181
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12191d1b0506c2060800000000000000
+      internalID: 6930019826313302305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670873ab8ef9bb930800000000000000
+      internalID: 4160094502712213622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_183
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afe9e20346d48c70800000000000000
+      internalID: 8972531940928909218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_184
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ed15385746bdd0800000000000000
+      internalID: -2470708901392293341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_185
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8741d6bcbaae83200800000000000000
+      internalID: 160135810344883320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_186
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd581cbfb05a420800000000000000
+      internalID: 2640529932434137059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_187
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3591d9bd6a1c3950800000000000000
+      internalID: 6430043426549503290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_188
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705ed52dd65801f60800000000000000
+      internalID: 8003043244564669703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_189
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990ca398b5c77720800000000000000
+      internalID: 2843959086249937303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_190
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0284f9c38b0748b50800000000000000
+      internalID: 6594519690970613792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_191
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baab74c5f549d670800000000000000
+      internalID: 8563953088287451825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_192
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 13
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e541d0d8ae7b42b90800000000000000
+      internalID: -7267481680652463010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_193
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 13
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b592592f91a5395b0800000000000000
+      internalID: -5362843663777584805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_194
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 13
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ed664b33785700800000000000000
+      internalID: 529299654637905583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_195
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 11
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d9154b74a359870800000000000000
+      internalID: 8688915135723576686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_196
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 11
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2377de8b7b1efcbe0800000000000000
+      internalID: -1454695975419545806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyPixelTiny_2x_197
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7654f06c2c45b9000800000000000000
+      internalID: 43721816913429863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CozyPixelTiny_2x_0: 7725354968653501791
+      CozyPixelTiny_2x_1: -1827580740851461362
+      CozyPixelTiny_2x_10: -7614152377199482740
+      CozyPixelTiny_2x_100: -5909490456374652144
+      CozyPixelTiny_2x_101: 8656415831811331584
+      CozyPixelTiny_2x_102: 3533497930116553202
+      CozyPixelTiny_2x_103: -7884113828211288038
+      CozyPixelTiny_2x_104: 1750362635296299219
+      CozyPixelTiny_2x_105: -9110743561560054778
+      CozyPixelTiny_2x_106: -3545608086174386665
+      CozyPixelTiny_2x_107: 892306504112004008
+      CozyPixelTiny_2x_108: 8786152212724093506
+      CozyPixelTiny_2x_109: 7426064678976232083
+      CozyPixelTiny_2x_11: 1200745948481921562
+      CozyPixelTiny_2x_110: 9029419735157321854
+      CozyPixelTiny_2x_111: -5898052678316095142
+      CozyPixelTiny_2x_112: 522112659157387099
+      CozyPixelTiny_2x_113: -8723393892653666256
+      CozyPixelTiny_2x_114: 3862429889055050335
+      CozyPixelTiny_2x_115: -7043166153993420675
+      CozyPixelTiny_2x_116: 2849905788064095001
+      CozyPixelTiny_2x_117: 7355354427439906141
+      CozyPixelTiny_2x_118: -3485577023030876141
+      CozyPixelTiny_2x_119: 7492942344476917175
+      CozyPixelTiny_2x_12: -3708959659880441783
+      CozyPixelTiny_2x_120: 3920725796623474726
+      CozyPixelTiny_2x_121: 5799060361977404291
+      CozyPixelTiny_2x_122: 4667614841561266392
+      CozyPixelTiny_2x_123: -356500846603475558
+      CozyPixelTiny_2x_124: -2455857096685763156
+      CozyPixelTiny_2x_125: -4548111555013784003
+      CozyPixelTiny_2x_126: 3405546871542896209
+      CozyPixelTiny_2x_127: -1315629686444022654
+      CozyPixelTiny_2x_128: 3088877550723932450
+      CozyPixelTiny_2x_129: -2090399728448457804
+      CozyPixelTiny_2x_13: 7998219091773525962
+      CozyPixelTiny_2x_130: 6191297585443469001
+      CozyPixelTiny_2x_131: 7029014051060043919
+      CozyPixelTiny_2x_132: -2978430934949280988
+      CozyPixelTiny_2x_133: 8635263079814171172
+      CozyPixelTiny_2x_134: -6003182303503933340
+      CozyPixelTiny_2x_135: 8086179029586038728
+      CozyPixelTiny_2x_136: 5856232586829877550
+      CozyPixelTiny_2x_137: -5785331006758678302
+      CozyPixelTiny_2x_138: -2559812998113502115
+      CozyPixelTiny_2x_139: 4920036269058360904
+      CozyPixelTiny_2x_14: -3004201224199166188
+      CozyPixelTiny_2x_140: 512520828027021700
+      CozyPixelTiny_2x_141: 3006184117872893435
+      CozyPixelTiny_2x_142: -705932079676340784
+      CozyPixelTiny_2x_143: 3496827800986586404
+      CozyPixelTiny_2x_144: -9134867642912643658
+      CozyPixelTiny_2x_145: 3465570731297911169
+      CozyPixelTiny_2x_146: -5193422904232013974
+      CozyPixelTiny_2x_147: 217805081420333613
+      CozyPixelTiny_2x_148: -3387158556012596385
+      CozyPixelTiny_2x_149: 1423934491211248700
+      CozyPixelTiny_2x_15: 6821492633295202927
+      CozyPixelTiny_2x_150: 5169018686234361777
+      CozyPixelTiny_2x_151: 1173382912416490441
+      CozyPixelTiny_2x_152: 5147757853358189981
+      CozyPixelTiny_2x_153: 8800699394800136693
+      CozyPixelTiny_2x_154: 2083281876115004724
+      CozyPixelTiny_2x_155: -5669893237360904425
+      CozyPixelTiny_2x_156: 6922147150755644427
+      CozyPixelTiny_2x_157: -5923472662831912009
+      CozyPixelTiny_2x_158: 334378866373783757
+      CozyPixelTiny_2x_159: -1908892899227662839
+      CozyPixelTiny_2x_16: -6341779078521676476
+      CozyPixelTiny_2x_160: 8083194572455528737
+      CozyPixelTiny_2x_161: 2086334573014742199
+      CozyPixelTiny_2x_162: 3045637497138618254
+      CozyPixelTiny_2x_163: -8720263160665113632
+      CozyPixelTiny_2x_164: 2661204021906999922
+      CozyPixelTiny_2x_165: 3542494779071003815
+      CozyPixelTiny_2x_166: 3838778059450318939
+      CozyPixelTiny_2x_167: 2731098654491509125
+      CozyPixelTiny_2x_168: -8187402453153920520
+      CozyPixelTiny_2x_169: 6996055712753021549
+      CozyPixelTiny_2x_17: -7014776599946076036
+      CozyPixelTiny_2x_170: -8981713371432727298
+      CozyPixelTiny_2x_171: 8466384759895980696
+      CozyPixelTiny_2x_172: -1804028783519502132
+      CozyPixelTiny_2x_173: -5895613188470787004
+      CozyPixelTiny_2x_174: 6596624795881092886
+      CozyPixelTiny_2x_175: 385088966077201881
+      CozyPixelTiny_2x_176: 5748836020125038466
+      CozyPixelTiny_2x_177: -1947803985023032478
+      CozyPixelTiny_2x_178: 7603067961696013762
+      CozyPixelTiny_2x_179: -6292468697197460774
+      CozyPixelTiny_2x_18: -3488026577028706140
+      CozyPixelTiny_2x_180: -4126550324680410454
+      CozyPixelTiny_2x_181: 6930019826313302305
+      CozyPixelTiny_2x_182: 4160094502712213622
+      CozyPixelTiny_2x_183: 8972531940928909218
+      CozyPixelTiny_2x_184: -2470708901392293341
+      CozyPixelTiny_2x_185: 160135810344883320
+      CozyPixelTiny_2x_186: 2640529932434137059
+      CozyPixelTiny_2x_187: 6430043426549503290
+      CozyPixelTiny_2x_188: 8003043244564669703
+      CozyPixelTiny_2x_189: 2843959086249937303
+      CozyPixelTiny_2x_19: 6001814749887190941
+      CozyPixelTiny_2x_190: 6594519690970613792
+      CozyPixelTiny_2x_191: 8563953088287451825
+      CozyPixelTiny_2x_192: -7267481680652463010
+      CozyPixelTiny_2x_193: -5362843663777584805
+      CozyPixelTiny_2x_194: 529299654637905583
+      CozyPixelTiny_2x_195: 8688915135723576686
+      CozyPixelTiny_2x_196: -1454695975419545806
+      CozyPixelTiny_2x_197: 43721816913429863
+      CozyPixelTiny_2x_2: -2961375016467620688
+      CozyPixelTiny_2x_20: -1326600432958983413
+      CozyPixelTiny_2x_21: 2520176231951627329
+      CozyPixelTiny_2x_22: 1705138228776343369
+      CozyPixelTiny_2x_23: 7415709772036872834
+      CozyPixelTiny_2x_24: 6680345621775443547
+      CozyPixelTiny_2x_25: -6135860246430771970
+      CozyPixelTiny_2x_26: -7864345392654622939
+      CozyPixelTiny_2x_27: -4789990024383489245
+      CozyPixelTiny_2x_28: -485221027307495291
+      CozyPixelTiny_2x_29: -7669582253648364054
+      CozyPixelTiny_2x_3: -5261259828732221206
+      CozyPixelTiny_2x_30: -4162996445906128004
+      CozyPixelTiny_2x_31: -478857671711510748
+      CozyPixelTiny_2x_32: 6333399894089404397
+      CozyPixelTiny_2x_33: -7939779067861012434
+      CozyPixelTiny_2x_34: -5006555379184489969
+      CozyPixelTiny_2x_35: 4399309429028770349
+      CozyPixelTiny_2x_36: -7278484526127651735
+      CozyPixelTiny_2x_37: 3054096886733627105
+      CozyPixelTiny_2x_38: -2900773439421405906
+      CozyPixelTiny_2x_39: -7929414127215197144
+      CozyPixelTiny_2x_4: -5803350850892923332
+      CozyPixelTiny_2x_40: 1533774904726265686
+      CozyPixelTiny_2x_41: 1187043312817045961
+      CozyPixelTiny_2x_42: 7346739844486232179
+      CozyPixelTiny_2x_43: -352706581813964390
+      CozyPixelTiny_2x_44: -3420910525922670628
+      CozyPixelTiny_2x_45: 843770214678426582
+      CozyPixelTiny_2x_46: -2084562589692893575
+      CozyPixelTiny_2x_47: 1030549566461749003
+      CozyPixelTiny_2x_48: -6245760145302768198
+      CozyPixelTiny_2x_49: 2630953921026241326
+      CozyPixelTiny_2x_5: -7211609807933202314
+      CozyPixelTiny_2x_50: 2114360391148748596
+      CozyPixelTiny_2x_51: 8411964044423470765
+      CozyPixelTiny_2x_52: 728969484778447913
+      CozyPixelTiny_2x_53: 6838723452670373958
+      CozyPixelTiny_2x_54: 8428919455770505007
+      CozyPixelTiny_2x_55: 645611852160347451
+      CozyPixelTiny_2x_56: 8987469815176833072
+      CozyPixelTiny_2x_57: 7912010305088410096
+      CozyPixelTiny_2x_58: 6455381265952186156
+      CozyPixelTiny_2x_59: 4744111394428297117
+      CozyPixelTiny_2x_6: 8426846183890504408
+      CozyPixelTiny_2x_60: 2475107347400579361
+      CozyPixelTiny_2x_61: -4458353846881499490
+      CozyPixelTiny_2x_62: -6134947523131742134
+      CozyPixelTiny_2x_63: 6931547886221829666
+      CozyPixelTiny_2x_64: -7252807287266497423
+      CozyPixelTiny_2x_65: 1506152708441683191
+      CozyPixelTiny_2x_66: 9086526604885868343
+      CozyPixelTiny_2x_67: -372926295678310284
+      CozyPixelTiny_2x_68: -8853636088930872166
+      CozyPixelTiny_2x_69: 5823514631812805390
+      CozyPixelTiny_2x_7: 2161496178696348204
+      CozyPixelTiny_2x_70: -4366028705655508159
+      CozyPixelTiny_2x_71: -2070568433405022384
+      CozyPixelTiny_2x_72: 8978726745379267114
+      CozyPixelTiny_2x_73: -5943532543312875047
+      CozyPixelTiny_2x_74: -8589942736674474477
+      CozyPixelTiny_2x_75: 4786870879778953715
+      CozyPixelTiny_2x_76: -611504729569999842
+      CozyPixelTiny_2x_77: -6022905742201073623
+      CozyPixelTiny_2x_78: -7694765308467257304
+      CozyPixelTiny_2x_79: -5257297872943898525
+      CozyPixelTiny_2x_8: -6620726157607684272
+      CozyPixelTiny_2x_80: 5589986135656907888
+      CozyPixelTiny_2x_81: -3307455504053771005
+      CozyPixelTiny_2x_82: 6145800924489806557
+      CozyPixelTiny_2x_83: -7878296844462089784
+      CozyPixelTiny_2x_84: -1879577580023231544
+      CozyPixelTiny_2x_85: 135178734445596818
+      CozyPixelTiny_2x_86: 9148548654649156820
+      CozyPixelTiny_2x_87: 4169846547271456061
+      CozyPixelTiny_2x_88: -1002379253943555454
+      CozyPixelTiny_2x_89: -749515304417091291
+      CozyPixelTiny_2x_9: -4169736087555730594
+      CozyPixelTiny_2x_90: 2658152593146141513
+      CozyPixelTiny_2x_91: 7909375280001968563
+      CozyPixelTiny_2x_92: -3850212265549238827
+      CozyPixelTiny_2x_93: 6110326530803079880
+      CozyPixelTiny_2x_94: 1131191177173410828
+      CozyPixelTiny_2x_95: -7743219356671410785
+      CozyPixelTiny_2x_96: -7593461709009538486
+      CozyPixelTiny_2x_97: 151628152882661481
+      CozyPixelTiny_2x_98: 8462113139154053612
+      CozyPixelTiny_2x_99: -6139112351107731173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

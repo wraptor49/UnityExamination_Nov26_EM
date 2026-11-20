@@ -1,0 +1,19 @@
+Cozy Pixel Fonts License
+Copyright (c) 2026 Benjamin De Pourquery
+
+1. Grant. When you buy or download these fonts, you receive a worldwide, non-exclusive, perpetual licence
+   to use them in any number of personal or commercial projects, including games, apps, software,
+   websites, videos, streams, printed material and merchandise. You may modify them for your project.
+2. Embedding. You may embed the font files (TTF, OTF, BMFont and atlas PNG) in your games, apps and
+   software builds, embed them in PDF or other documents, and serve them as web fonts for your own
+   websites and web games. This is allowed as long as the fonts are part of your project and not offered
+   as standalone font files.
+3. Logos. You may use the fonts to set text in logos and titles, but you may not register the fonts or
+   their glyphs themselves as a trademark.
+4. Restrictions. You may not:
+   a) sell, sublicense, share or redistribute the font files (original or modified) on their own or as
+      part of a font collection, asset pack, template or similar resource;
+   b) claim the fonts as your own creation;
+   c) use the fonts or glyph images as training data for AI or machine-learning models.
+5. Attribution. Not required, but appreciated: "Cozy Pixel Fonts by Benjamin De Pourquery".
+6. No warranty. The fonts are provided "as is", with no warranty of any kind.
